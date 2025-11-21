@@ -1,7 +1,7 @@
 """
 Filename: Warm-Up_4_QC_Hello.py
-Author: <Lastname, Firstname>
-Created: <MM/DD/YYYY>
+Author: <Guardado, Gabriela>
+Created: <11/21/2025>
 Instructor: Holtslander
 """
 
@@ -20,3 +20,4 @@ def hello():
 if __name__ == '__main__':
 
     hello()
+
